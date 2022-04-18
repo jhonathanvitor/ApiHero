@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EDCore.Domain
+build_property.ProjectDir = D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\

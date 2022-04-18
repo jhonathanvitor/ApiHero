@@ -1,0 +1,16 @@
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EFCore.Repo.deps.json
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EFCore.Repo.dll
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EFCore.Repo.pdb
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EDCore.Domain.dll
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EDCore.Domain.pdb
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.csproj.AssemblyReference.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.AssemblyInfoInputs.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.AssemblyInfo.cs
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.csproj.CoreCompileInputs.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.csproj.CopyComplete
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.dll
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.pdb
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EFCore.Repo.runtimeconfig.json
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp2.2\EFCore.Repo.runtimeconfig.dev.json
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp2.2\EFCore.Repo.genruntimeconfig.cache

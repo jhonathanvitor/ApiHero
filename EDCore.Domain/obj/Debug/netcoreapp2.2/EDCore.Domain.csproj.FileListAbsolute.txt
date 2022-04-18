@@ -1,0 +1,10 @@
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\bin\Debug\netcoreapp2.2\EDCore.Domain.deps.json
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\bin\Debug\netcoreapp2.2\EDCore.Domain.dll
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\bin\Debug\netcoreapp2.2\EDCore.Domain.pdb
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.csproj.AssemblyReference.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.AssemblyInfoInputs.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.AssemblyInfo.cs
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.csproj.CoreCompileInputs.cache
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.dll
+D:\wwwPc\Curso CSharp\EFCoreWebApi\EFCore.WebAPI\EDCore.Domain\obj\Debug\netcoreapp2.2\EDCore.Domain.pdb
